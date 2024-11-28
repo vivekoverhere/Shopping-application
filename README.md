@@ -35,5 +35,5 @@ Apna Bazaar is a simple and user-friendly shopping application that allows users
 
 ## Contact
 
-For any inquiries or feedback, please contact us at [vivekoverhere@gmail.com](mailto:vivek.ssharma36@gmail.com).
+For any inquiries or feedback, please contact us at [vivek.ssharma36@gmail.com](mailto:vivek.ssharma36@gmail.com).
 
