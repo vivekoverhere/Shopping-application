@@ -14,7 +14,7 @@ Apna Bazaar is a simple and user-friendly shopping application that allows users
 ## Usage
 
 1. **Authentication**:
-    - Enter your username and password to log in. (Default username: `username`, password: `password`)
+    - Enter your username and password to log in. (Default username: `apnabazaar`, password: `project`)
 
 2. **Shopping**:
     - After successful authentication, you can choose to add items to the cart, view the cart, or remove items from the cart.
