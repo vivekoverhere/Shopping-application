@@ -62,6 +62,8 @@ class ApnaBazaarApp:
     def show_main_menu(self):
         self.clear_window()
 
+        self.root.geometry("300x250")
+        
         self.main_label = tk.Label(self.root, text="Choose an Option", font=("Arial", 14))
         self.main_label.pack(pady=10)
 
